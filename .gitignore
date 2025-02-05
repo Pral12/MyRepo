@@ -1,4 +1,4 @@
-/ignore_file
+/ignore_file.txt
 # Байткод
 *.pyc
 **/__pycache__/
