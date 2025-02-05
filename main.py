@@ -1,4 +1,4 @@
 print("first commit")
 print('branch test')
 
-print('main&test')
+print('Conflict main&test мой вариант')
